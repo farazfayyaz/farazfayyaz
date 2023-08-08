@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi There 👋
 
 My name is Faraz and I am a software engineer with a passion to create!
 
