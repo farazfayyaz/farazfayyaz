@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farazfayyaz&label=Profile%20views&color=0e75b6&style=flat" alt="farazfayyaz" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farazfayyaz" alt="farazfayyaz" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/farazfayyazdev" target="blank"><img src="https://img.shields.io/twitter/follow/farazfayyazdev?logo=twitter&style=for-the-badge" alt="farazfayyazdev" /></a> </p>
 
 - 🔭 I’m currently working on [Hakr.Mp3](https://hakr-mp3-landing-page.vercel.app/)
