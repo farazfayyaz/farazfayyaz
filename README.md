@@ -2,7 +2,7 @@
 <img src="https://github.com/farazfayyaz/farazfayyaz/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png?raw=true" align="center" style="width: 100%" />
 </div>  
 
-### <div align="left">Full-Stack Software Engineer 👨‍💻🚀 </div>  
+### <h2 align="left">Full-Stack Software Engineer 👨‍💻🚀 </h2>  
 
 <div align="center">
 <img src="https://github.com/farazfayyaz/farazfayyaz/blob/main/Faraz%20Fayyaz%20Brand%20Logo.png?raw=true" align="right" style="width: 220px" />
