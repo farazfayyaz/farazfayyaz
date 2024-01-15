@@ -19,10 +19,10 @@
 - 🌱 I’m currently learning Python, Node.Js and databases  
   
 
-- ❓ Ask me about anything related to JavaScript, React.Js, and   
+- ❓ Ask me about anything related to JavaScript and React.Js  
   
 
-- ⚡ Fun fact: I love to draw on my free time!   
+- ⚡ Fun fact: I love reading comics and a good book every now and then!   
   
 
 <br/><br/><br/>
