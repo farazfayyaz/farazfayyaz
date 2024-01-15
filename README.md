@@ -25,7 +25,7 @@
 - ⚡ Fun fact: I love to draw on my free time!   
   
 
-<br/><br/>
+<br/><br/><br/>
 
 
 ### <h1 align="center">Technologies</h1>   
