@@ -3,7 +3,7 @@
 </div>  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=700&color=4B8FD1&center=true&vCenter=true&random=false&width=500&height=100&lines=My+name+is+Faraz!;I+am+a+Frontend+Developer;expanding+to+Full+Stack" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=700&color=4B8FD1&center=true&vCenter=true&random=false&width=500&height=100&lines=My+name+is+Faraz,;Your+next+Software+Engineer." alt="Typing SVG" />
 </p>
 
 ### <h1 align="center">Hey there, I'm Faraz! 👨‍💻🚀 </h2>  
@@ -16,7 +16,7 @@
 - 🔭 I’m currently working on [Hakr.Mp3](https://hakr-mp3-landing-page.vercel.app/)  
   
 
-- 🌱 I’m currently learning Python, Node.Js and databases  
+- 🌱 I’m currently learning C# and SQL  
   
 
 - ❓ Ask me about anything related to JavaScript and React.Js  
