@@ -16,7 +16,7 @@
 - 🔭 I’m currently working on [Hakr.Mp3](https://hakr-mp3-landing-page.vercel.app/)  
   
 
-- 🌱 I’m currently learning C# and SQL  
+- 🌱 I’m currently learning Algorithms and Databases. 
   
 
 - ❓ Ask me about anything related to JavaScript and React.Js  
