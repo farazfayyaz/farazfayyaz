@@ -1,81 +1,103 @@
-<div align="center">
-<img src="https://github.com/farazfayyaz/farazfayyaz/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png?raw=true" align="center" style="width: 100%" />
-</div>  
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm Faraz Fayyaz</h1>
+<h3 align="center">Software Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=700&color=4B8FD1&center=true&vCenter=true&random=false&width=500&height=100&lines=My+name+is+Faraz,;Your+next+Software+Engineer." alt="Typing SVG" />
+  <a href="https://komarev.com/ghpvc/?username=farazfayyaz">
+    <img src="https://komarev.com/ghpvc/?username=farazfayyaz&label=Profile%20views&color=00FFFF&style=flat-square" alt="farazfayyaz's profile views" />
+  </a>
 </p>
 
-### <h1 align="center">Hey there, I'm Faraz! 👨‍💻🚀 </h2>  
+<img src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" alt="Banner" width="100%" />
 
-<div align="center">
-<img src="https://github.com/farazfayyaz/farazfayyaz/blob/main/Faraz%20Fayyaz%20Brand%20Logo.png?raw=true" align="right" style="width: 220px; border-radius: round" />
-</div>  
-  
-
-- 🔭 I’m currently working on [Hakr.Mp3](https://hakr-mp3-landing-page.vercel.app/)  
-  
-
-- 🌱 I’m currently learning Algorithms and Databases. 
-  
-
-- ❓ Ask me about anything related to JavaScript and React.Js  
-  
-
-- ⚡ Fun fact: I love reading comics and a good book every now and then!   
-  
-
-<br/><br/><br/>
+## 📌 About Me
+- I'm currently working on completing my BS in Computer Science.
+- I am learning Next.Js and backend tools.
 
 
-### <h1 align="center">Technologies</h1>   
+## 🧠 My Focus Areas
+- Web Development
+- Software Development
+- AI/ML
+
+
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=farazfayyaz&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Faraz Fayyaz's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=farazfayyaz&theme=radical&radius=10" alt="farazfayyaz's Activity Graph" />
+</p>
+
+
+## 🛠️ Languages & Tools
+
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" />
+
+</p>
+
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />
+
+</p>
+
+<h3 align="center">Backend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" />&nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" />
+
+</p>
+
+<h3 align="center">Database</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />
+
+</p>
+
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
+
+</p>
 
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5"/>
-  <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3"/>
-  <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript"/>
-  <img src="https://img.shields.io/static/v1?label=|&message=CSHARP&color=806404&style=plastic&logo=csharp"/>
-  <img src="https://img.shields.io/static/v1?label=|&message=NODE.JS&color=bbb111&style=plastic&logo=node.js"/>
-  <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=4a935c&style=plastic&logo=react"/>
-  <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=bbb111&style=plastic&logo=express"/>
-  <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=cdd148&style=plastic&logo=mongodb"/>
-  <img src="https://img.shields.io/static/v1?label=|&message=PYTHON&color=52985b&style=plastic&logo=python"/>
-  <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&style=plastic&logo=git"/>
+  <a href="https://github.com/farazfayyaz">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=farazfayyaz&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
+  </a>
 </p>
 
-<br/>  
-
-
-### <h1 align="center">Connect With Me</h1>   
-
+## 🔗 Connect with Me
 <p align="center">
-  <a href="https://www.farazfayyaz.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/faraz-fayyaz/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
-  </a>
-  <a href="https://twitter.com/farazfayyazdev" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
-  </a>
-  <a href="https://www.instagram.com/farazfayyazdev/" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=INSTAGRAM&color=cdf998&style=plastic&logo=instagram&logo-color=white"/>
+  <a href="https://www.linkedin.com/in/faraz-fayyaz/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:farazfayyazwork@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.farazfayyaz.com/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
   </a>
 </p>
-  
 
-<br/>
-
-
-### <h1 align="center">Github Stats</h1>  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farazfayyaz&hide_border=true&layout=compact" align="center" /></div>  
-
-<br/>  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
 
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=farazfayyaz&&style=flat-square" align="center" />
-</div>  
   
 
 <br/>  
