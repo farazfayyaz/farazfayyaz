@@ -3,11 +3,13 @@
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=farazfayyaz">
-    <img src="https://komarev.com/ghpvc/?username=farazfayyaz&label=Profile%20views&color=00FFFF&style=flat-square" alt="farazfayyaz's profile views" />
+    <img src="https://komarev.com/ghpvc/?username=farazfayyaz&label=Profile%20views&color=00FFFF&style=flat-square" alt="farazfayyaz's profile views" w />
   </a>
 </p>
 
-<img src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" alt="Banner" width="100%" />
+<div align="center">
+  <img src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" alt="Banner" width="60%" />
+</div>
 
 ## 📌 About Me
 - I'm currently working on completing my BS in Computer Science.
